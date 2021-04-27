@@ -1,0 +1,31 @@
+.lib-name {
+    /* margin-left: 3.8rem; */
+    text-align: center;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.page-link, .prev-link, .next-link, .break-me {
+    list-style: none;
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+    padding: 8px 16px;
+}
+
+.active {
+    list-style: none;
+    display: inline-block;
+    margin: 0 4px;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+.a-link {
+    text-decoration: none;
+    border: none;
+}

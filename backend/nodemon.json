@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "Practice",
+        "DB_PASSWORD": "osrE8E144UA6KIdA",
+        "DB_NAME": "BookFinder",
+        "GOOGLE_API_KEY": "AIzaSyCt5TIB4E7hdgYcpRc8zoGRiExxPg4Xik4"
+    }
+}

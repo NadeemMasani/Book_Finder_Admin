@@ -1,0 +1,18 @@
+.book_item {
+    width: 90rem;
+    margin: 1rem;
+    list-style-type: none;
+}
+
+.align-left {
+    float: left
+}
+
+.align-right {
+    margin-top: 3rem;
+    float: right;
+}
+
+.book-position {
+    clear: both;
+}
